@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @veekey-amos
-- 👀 I’m an IT student.
+- 🌱 I’m an IT student.
 - 🌱 I’m currently learning python,c,htm,css,java.
 - 📫 Reach me @ veekeyamos@gmail.com
 <!---
